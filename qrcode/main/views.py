@@ -26,9 +26,9 @@ def qrmaker(request):
 
     QRstring = urls
     url = QRCode(QRstring)
-    os.chdir('/home/toble/Pictures')
+    os.chdir('/home/pako/Pictures')
     img = url.png(names, scale=8)
-    print(os.listdir('/home/toble/Pictures'))
+    print(os.listdir('/home/pako/Pictures'))
     
 
    
