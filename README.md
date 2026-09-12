@@ -184,7 +184,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Onoriode Ofremu**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@YOUR-USERNAME](https://github.com/onoriodeofremu)
 - LinkedIn: [Endurance Onoriode Ofremu](https://linkedin.com)
 
 ---
